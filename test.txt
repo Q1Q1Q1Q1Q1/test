@@ -1,1 +1,2 @@
 Hello, this is test for using Github.
+I'm editing the file to check if the repository works well.
